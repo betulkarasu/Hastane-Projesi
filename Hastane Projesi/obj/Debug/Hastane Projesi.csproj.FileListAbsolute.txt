@@ -1,0 +1,46 @@
+C:\Users\betul\source\repos\Hastane Projesi\Hastane Projesi\bin\Debug\Hastane Projesi.exe.config
+C:\Users\betul\source\repos\Hastane Projesi\Hastane Projesi\bin\Debug\Hastane Projesi.exe
+C:\Users\betul\source\repos\Hastane Projesi\Hastane Projesi\bin\Debug\Hastane Projesi.pdb
+C:\Users\betul\source\repos\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.AssemblyReference.cache
+C:\Users\betul\source\repos\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form1.resources
+C:\Users\betul\source\repos\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Properties.Resources.resources
+C:\Users\betul\source\repos\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.GenerateResource.cache
+C:\Users\betul\source\repos\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.CoreCompileInputs.cache
+C:\Users\betul\source\repos\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.exe
+C:\Users\betul\source\repos\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.pdb
+C:\Users\betul\source\repos\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Doktor_Bilgi_Guncelle.resources
+C:\Users\betul\source\repos\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form_Bilgi_Düzenle.resources
+C:\Users\betul\source\repos\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form_Brans_Paneli.resources
+C:\Users\betul\source\repos\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form_Doktor_Detay.resources
+C:\Users\betul\source\repos\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form_Doktor_Giris.resources
+C:\Users\betul\source\repos\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form_Doktor_Paneli.resources
+C:\Users\betul\source\repos\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form_Duyurular.resources
+C:\Users\betul\source\repos\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form_HastaKayit.resources
+C:\Users\betul\source\repos\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form_Hasta_Detay.resources
+C:\Users\betul\source\repos\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form_Hasta_Giris.resources
+C:\Users\betul\source\repos\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form_Randevu_Listesi.resources
+C:\Users\betul\source\repos\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form_Sekreter_Detay.resources
+C:\Users\betul\source\repos\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form_Sekreter_Giris.resources
+C:\Users\betul\OneDrive\Masaüstü\Hastane Projesi\Hastane Projesi\bin\Debug\Hastane Projesi.exe.config
+C:\Users\betul\OneDrive\Masaüstü\Hastane Projesi\Hastane Projesi\bin\Debug\Hastane Projesi.exe
+C:\Users\betul\OneDrive\Masaüstü\Hastane Projesi\Hastane Projesi\bin\Debug\Hastane Projesi.pdb
+C:\Users\betul\OneDrive\Masaüstü\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.AssemblyReference.cache
+C:\Users\betul\OneDrive\Masaüstü\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Doktor_Bilgi_Guncelle.resources
+C:\Users\betul\OneDrive\Masaüstü\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form_Bilgi_Düzenle.resources
+C:\Users\betul\OneDrive\Masaüstü\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form_Brans_Paneli.resources
+C:\Users\betul\OneDrive\Masaüstü\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form_Doktor_Detay.resources
+C:\Users\betul\OneDrive\Masaüstü\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form_Doktor_Giris.resources
+C:\Users\betul\OneDrive\Masaüstü\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form_Doktor_Paneli.resources
+C:\Users\betul\OneDrive\Masaüstü\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form_Duyurular.resources
+C:\Users\betul\OneDrive\Masaüstü\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form1.resources
+C:\Users\betul\OneDrive\Masaüstü\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form_HastaKayit.resources
+C:\Users\betul\OneDrive\Masaüstü\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form_Hasta_Detay.resources
+C:\Users\betul\OneDrive\Masaüstü\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form_Hasta_Giris.resources
+C:\Users\betul\OneDrive\Masaüstü\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form_Randevu_Listesi.resources
+C:\Users\betul\OneDrive\Masaüstü\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form_Sekreter_Detay.resources
+C:\Users\betul\OneDrive\Masaüstü\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form_Sekreter_Giris.resources
+C:\Users\betul\OneDrive\Masaüstü\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Properties.Resources.resources
+C:\Users\betul\OneDrive\Masaüstü\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.GenerateResource.cache
+C:\Users\betul\OneDrive\Masaüstü\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.CoreCompileInputs.cache
+C:\Users\betul\OneDrive\Masaüstü\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.exe
+C:\Users\betul\OneDrive\Masaüstü\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.pdb
